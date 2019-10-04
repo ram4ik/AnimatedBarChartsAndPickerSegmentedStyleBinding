@@ -1,0 +1,6 @@
+Bar Chart with Animations
+
+1. Picker with Segmented Style
+2. Bind Picker to data set
+3. Capsule shapes
+4. Light/Dark mode?

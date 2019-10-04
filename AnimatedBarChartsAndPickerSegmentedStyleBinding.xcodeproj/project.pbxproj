@@ -13,6 +13,7 @@
 		957AF94C2347219F00C5755D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 957AF94B2347219F00C5755D /* Assets.xcassets */; };
 		957AF94F2347219F00C5755D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 957AF94E2347219F00C5755D /* Preview Assets.xcassets */; };
 		957AF9522347219F00C5755D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 957AF9502347219F00C5755D /* LaunchScreen.storyboard */; };
+		957AF95A2347220000C5755D /* File.txt in Resources */ = {isa = PBXBuildFile; fileRef = 957AF9592347220000C5755D /* File.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		957AF94E2347219F00C5755D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		957AF9512347219F00C5755D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		957AF9532347219F00C5755D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		957AF9592347220000C5755D /* File.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = File.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				957AF9502347219F00C5755D /* LaunchScreen.storyboard */,
 				957AF9532347219F00C5755D /* Info.plist */,
 				957AF94D2347219F00C5755D /* Preview Content */,
+				957AF9592347220000C5755D /* File.txt */,
 			);
 			path = AnimatedBarChartsAndPickerSegmentedStyleBinding;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			files = (
 				957AF9522347219F00C5755D /* LaunchScreen.storyboard in Resources */,
 				957AF94F2347219F00C5755D /* Preview Assets.xcassets in Resources */,
+				957AF95A2347220000C5755D /* File.txt in Resources */,
 				957AF94C2347219F00C5755D /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
